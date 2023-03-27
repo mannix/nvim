@@ -1,1 +1,1 @@
-vim.cmd.colorscheme("tempus_dawn")
+vim.cmd.colorscheme("tokyonight-moon")
